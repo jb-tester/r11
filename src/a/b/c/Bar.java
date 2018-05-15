@@ -8,10 +8,5 @@ package a.b.c;
  * *******************************
  */
 public class Bar {
-    // here
-    // ch1
-    // nnnn
-    // ch1 fff
-    // ddd
-    // dddddd
+    // ssh1
 }

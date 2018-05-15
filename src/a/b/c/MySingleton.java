@@ -6,13 +6,13 @@ package a.b.c;
  * Project: multiple_github_repos
  * *******************************
  */
-public class SSS {
-    private static SSS ourInstance = new SSS();
+public class MySingleton {
+    private static MySingleton ourInstance = new MySingleton();
 
-    public static SSS getInstance() {
+    public static MySingleton getInstance() {
         return ourInstance;
     }
 
-    private SSS() {
+    private MySingleton() {
     }
 }

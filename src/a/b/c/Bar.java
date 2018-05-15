@@ -8,4 +8,5 @@ package a.b.c;
  */
 public class Bar {
     // here
+    // ch1
 }

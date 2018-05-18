@@ -6,7 +6,7 @@ package a.b.cccc;
  * Project: multiple_github_repos
  *
  *
- *
+ * *******************************
  */
 public class MySingleton {
     private static MySingleton ourInstance = new MySingleton();

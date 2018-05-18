@@ -16,5 +16,6 @@ public class MySingleton {
     }
 
     private MySingleton() {
+        // dummy
     }
 }

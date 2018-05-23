@@ -10,7 +10,6 @@ package a.b.c;
  */
 public class SSS {
 
-
     private static SSS ourInstance = new SSS();
 
     public static SSS getInstance() {

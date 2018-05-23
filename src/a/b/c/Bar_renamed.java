@@ -9,12 +9,5 @@ package a.b.c;
  * *******************************
  */
 public class Bar_renamed {
-    // dkdkk
-    // ssh1
-    // ssh1
-    // ssh1
-    // ssh1
-    // clone
-    // clone
-    // clone
+
 }

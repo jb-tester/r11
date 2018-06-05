@@ -8,8 +8,8 @@ package a.b.cccc;
  */
 public class BBB {
 
+    // bbb
+    // bbb
     //
-    //
-    //
-    //
+    // bbbb
 }

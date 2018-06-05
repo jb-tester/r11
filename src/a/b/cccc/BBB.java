@@ -6,7 +6,7 @@ package a.b.cccc;
  * Project: r11
  * *******************************
  */
-public class AAA {
+public class BBB {
 
     //
     //

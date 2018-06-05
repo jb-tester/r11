@@ -8,7 +8,7 @@ package a.b.c;
  * ttttttttttttttttttttttttt
  * *******************************
  */
-public class Bar_renamed {
+public class Foo {
     //
     //
 }

@@ -15,7 +15,7 @@ public class Bar {
     // clone
     // clone
     // clone
-
+// new
     // clone
     // clone
     // clone

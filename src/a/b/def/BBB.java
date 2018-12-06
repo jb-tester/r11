@@ -2,7 +2,7 @@ package a.b.def;
 
 /**
  * *******************************
- * Created by Irina.Petrovskaya on 6/5/2018.
+ * Created by Irina Petrovskaya on 6/5/2018.
  * Project: r11
  * *******************************
  */

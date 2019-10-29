@@ -13,6 +13,7 @@ public class SSS_singleton {
     private static SSS_singleton ourInstance = new SSS_singleton();
 
     private SSS_singleton() {
+        //2
     }
 
     public static SSS_singleton getInstance() {

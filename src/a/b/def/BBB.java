@@ -8,8 +8,8 @@ package a.b.def;
  */
 public class BBB {
 
-    // bbb
+    // bbb    2
     // bbb
     //
-    // bbbb
+    // bbbb  2
 }

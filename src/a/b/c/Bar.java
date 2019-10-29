@@ -8,5 +8,5 @@ package a.b.c;
  */
 public class Bar {
 
-   String str1;
+   String str1; //2
 }

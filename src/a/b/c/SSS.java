@@ -13,6 +13,7 @@ public class SSS {
     private static SSS ourInstance = new SSS();
 
     private SSS() {
+        // bbbbb
     }
 
     public static SSS getInstance() {
